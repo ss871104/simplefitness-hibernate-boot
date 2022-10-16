@@ -1,2 +1,2 @@
 # simplefitness-hibernate-boot
-Spring Boot + Hibernate + Spring Security and JWT token practice with RESTFUL api
+Spring Boot + Hibernate + Spring Security and JWT token practice with RESTFUL api Frontend backend separation
